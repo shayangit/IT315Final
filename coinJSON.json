@@ -1,0 +1,11 @@
+{
+  "Coins": 
+  [
+    {"CoinName" : "FakeDoge", "CoinValue": "4000.00", "CoinDescr": "Fake Doge exists as a pardody coin of Doge Coin"},
+    {"CoinName" : "FakeDoge", "CoinValue": "4000.00", "CoinDescr": "Fake Doge exists as a pardody coin of Doge Coin"},
+    {"CoinName" : "FakeDoge", "CoinValue": "4000.00", "CoinDescr": "Fake Doge exists as a pardody coin of Doge Coin"},
+    {"CoinName" : "FakeDoge", "CoinValue": "4000.00", "CoinDescr": "Fake Doge exists as a pardody coin of Doge Coin"}
+  
+  ]
+
+}
