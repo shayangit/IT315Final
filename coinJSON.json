@@ -1,11 +1,9 @@
 {
   "Coins": 
   [
-    {"CoinName" : "FakeDoge", "CoinValue": "4000.00", "CoinDescr": "Fake Doge exists as a pardody coin of Doge Coin"},
-    {"CoinName" : "FakeDoge", "CoinValue": "4000.00", "CoinDescr": "Fake Doge exists as a pardody coin of Doge Coin"},
-    {"CoinName" : "FakeDoge", "CoinValue": "4000.00", "CoinDescr": "Fake Doge exists as a pardody coin of Doge Coin"},
-    {"CoinName" : "FakeDoge", "CoinValue": "4000.00", "CoinDescr": "Fake Doge exists as a pardody coin of Doge Coin"}
-  
+    {"CoinName" : "FakeDoge", "CoinValue": "999.00", "CoinNewsSite" : "https://dogecoin.com" , "CoinStat" : "HOLD!!" , "CoinDescription": "Fake Doge exists as a pardody coin of Doge Coin, the price of $999 and Idea of HOLD is purely based on running jokes in Cryptocurrecny community, and are entirely fictional."},
+    {"CoinName" : "FakeBitCoin", "CoinValue": "36000.00", "CoinNewsSite" : "https://bitcoin.org/en/" , "CoinStat" : "Buy!!" , "CoinDescription": "Fake BitCoin exists as a pardody coin of BitCoin, the price of $36000 exists to reflect the current down-wards trend of Bitcoin. While this is not a financial advice, this could be a great time to invest in Bitcoin."},
+    {"CoinName" : "FakeEthereum", "CoinValue": "2600.00" , "CoinNewsSite" : "https://ethereum.org/en/" , "CoinStat" : "Sell!!" , "CoinDescription": "Fake Ethereum exists as a pardody coin of Ethereum, with current price being what it was apporximately valueed in early May. The idea of selling this coin is purely an environmental and ethical opinion due to potential resource waste of Ethereum mining"}
   ]
 
 }
